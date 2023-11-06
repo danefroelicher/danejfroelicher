@@ -1,0 +1,12 @@
+body {
+    background-image: url('IMG_9621.jpg'); /* Replace 'background.jpg' with your image file */
+    background-size: cover; /* Adjust how the image covers the entire background */
+    background-repeat: no-repeat; /* Prevent image from repeating */
+    background-attachment: fixed; /* Fixed background for scrolling content */
+}
+.center{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 60%;
+}
